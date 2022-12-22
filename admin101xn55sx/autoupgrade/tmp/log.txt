@@ -1,0 +1,2 @@
+[2022-11-27 15:11:24] [INTERNAL] C:\xampp\htdocs\pretashop\modules\autoupgrade\classes\Upgrader.php line 540 - Maximum execution time of 120 seconds exceeded
+[2022-12-20 16:22:53] [INTERNAL] C:\xampp\htdocs\pretashop\modules\autoupgrade\classes\Upgrader.php line 540 - Maximum execution time of 120 seconds exceeded

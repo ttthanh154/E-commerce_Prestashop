@@ -1,0 +1,16 @@
+span.ets_tps_sold {
+    float: right;
+    margin-right: 15px;
+    color: #999;
+    font-size: 14px;
+}
+
+.ets_display_sold .product-price-and-shipping {
+    float: left;
+    margin-left: 15px;
+}
+.product-prices span.ets_tps_sold {
+    float: none;
+    margin-left: 15px;
+}
+

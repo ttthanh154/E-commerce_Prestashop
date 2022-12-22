@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ets_cookie_banner</name>
+    <displayName><![CDATA[Cookie Banner]]></displayName>
+    <version><![CDATA[1.0.3]]></version>
+    <description><![CDATA[Display a banner asking for client`s consent for the cookies used on the store. Fully customizable - colors, positions, buttons, texts, etc.]]></description>
+    <author><![CDATA[ETS-Soft]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,76 @@
+#PH_SBT_CRONJOB_TOKEN + .ph-sbt-cronjob-code {
+    margin-top: 7px;
+}
+button.btn {
+    position: relative;
+}
+.ph-sbt-cronjob-code code {
+    border: 1px solid rgba(199, 37, 78, 0.3);
+    padding: 6px 5px;
+    display: block;
+    clear: both;
+    margin-top: 4px;
+    margin-bottom: 15px;
+}
+button#module_form_submit_btn,
+button#module_form_submit_btn i {
+    outline: none!important;
+    box-shadow: none!important;
+}
+.js-btn-ph-sbt-run-sort.loading:before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin-left: -10px;
+    margin-top: -10px;
+    border-radius: 50%;
+    border-right: 1px solid #333;
+    border-left: 1px solid #333;
+    -webkit-animation: loading 0.4s infinite linear;
+    animation: loading 0.4s infinite linear;
+    border-top: 1px solid transparent!important;
+    border-bottom: 1px solid transparent!important;
+}
+.js-btn-ph-sbt-run-sort.loading:hover:before {
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+}
+@keyframes loading {
+    0% {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes loading {
+    0% {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
+.js-btn-ph-sbt-run-sort.loading {
+    color: rgba(0,0,0,0.1)!important;
+}
+.ph-sbt-cron-box{
+    margin-top: 30px;
+}
+.ph-sbt-cron-box .box-title{
+
+}
+
+
+
+
+
+

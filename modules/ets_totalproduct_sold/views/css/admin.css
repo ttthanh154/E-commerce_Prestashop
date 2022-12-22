@@ -1,0 +1,23 @@
+#configuration_form .translatable-field {
+    max-width: 650px;
+}
+.module-ets_totalproduct_sold img.top-logo {
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+.ps-switch input:first-child {
+    left: 0;
+    z-index: 111111;
+}
+.ps-switch input {
+    left: 0;
+    display: none;
+}
+#ETS_TPS_START_COUNTING_TOTAL_PRODUCT,#ETS_TPS_CAL_FACTOR{
+    width:100px;
+}
+.module-ets_totalproduct_sold .switch.prestashop-switch.fixed-width-lg {
+    display: flex;
+    position: relative;
+}

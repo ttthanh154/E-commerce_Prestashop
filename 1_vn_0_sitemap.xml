@@ -1,0 +1,2781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/không tìm thấy trang nào]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/bán chạy nhất]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/brands]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/sản phẩm mới]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/khôi phục mật khẩu]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/giảm giá]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/nhà cung cấp]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/địa chỉ]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/đăng nhập]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/giỏ hàng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/giảm giá]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/lịch sử mua hàng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/nhận dạng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/tài khoản của tôi]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/theo dõi đơn hàng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/phiếu tín dụng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/đơn hàng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/tìm kiếm]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/cửa hàng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/theo dõi khách hàng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/xác nhận đơn hàng]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-ps_checkpayment-payment]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-ps_checkpayment-validation]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-ps_emailsubscription-verification]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-ps_emailsubscription-subscription]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-ps_wirepayment-payment]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-ps_wirepayment-validation]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-ps_shoppingcart-ajax]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-paypal-payment]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/index.php?controller=module-paypal-validation]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.1</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/dell-laptop/22-laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/24-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/25-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/26-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/27-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/28-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/dell-laptop/23-laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/34-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/35-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/36-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/37-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/38-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/dell-laptop/28-laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/39-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/40-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/41-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/42-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/43-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/dell-laptop/30-laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/44-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/45-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/46-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/47-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/48-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/dell-laptop/32-laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/54-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/55-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/56-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/57-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/58-large_default/laptop-dell-inspiron-16-5620-p1wkn-i5-1235u-8gb-256gb-iris-xe-graphics16-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Dell Inspiron 16 5620 P1WKN i5 1235U/ 8GB/ 256GB/ Iris Xe Graphics/16 inch FHD/ Win11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/lenovo-laptop/34-laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/59-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/60-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/61-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/62-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/63-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/laptop-mua-christmas/35-laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.html]]></loc>
+<lastmod>2022-11-30T11:04:28+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/74-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/75-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/76-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/77-large_default/laptop-lenovo-ideapad-gaming-3-15iah76-82s90088vn-i5-12500h-16gb-512gb-ssd-rtx-3050-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[copy of Laptop Lenovo IdeaPad Gaming 3 15IAH76 82S90088VN i5 12500H/ 16GB/ 512GB SSD/ RTX 3050 / 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/lenovo-laptop/36-laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/78-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/79-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/80-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/81-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/lenovo-laptop/38-laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/89-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/86-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/87-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/88-large_default/laptop-lenovo-ideapad-gaming-3-15iah7-82sb007lvn-ryzen-5-6600h-16gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11-xam.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo IdeaPad Gaming 3 15IAH7 82SB007LVN - Ryzen 5 6600H/ 16GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11/ Xám]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/lenovo-laptop/39-laptop-lenovo-legion-5-15arh7-82re002vvn-ryzen-5-6600h-8gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11.html]]></loc>
+<lastmod>2022-12-07T14:45:00+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/90-large_default/laptop-lenovo-legion-5-15arh7-82re002vvn-ryzen-5-6600h-8gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo Legion 5 15ARH7 82RE002VVN Ryzen 5 6600H/ 8GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/91-large_default/laptop-lenovo-legion-5-15arh7-82re002vvn-ryzen-5-6600h-8gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo Legion 5 15ARH7 82RE002VVN Ryzen 5 6600H/ 8GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/92-large_default/laptop-lenovo-legion-5-15arh7-82re002vvn-ryzen-5-6600h-8gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo Legion 5 15ARH7 82RE002VVN Ryzen 5 6600H/ 8GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/93-large_default/laptop-lenovo-legion-5-15arh7-82re002vvn-ryzen-5-6600h-8gb-512gb-rtx-3050-ti-4gb-156-inch-fhd-win-11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Lenovo Legion 5 15ARH7 82RE002VVN Ryzen 5 6600H/ 8GB/ 512GB/ RTX 3050 Ti 4GB/ 15.6 inch FHD/ Win 11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/hp-laptop/40-laptop-hp-probook-450-g9-6m107pa-i7-1260p-16gb-512gb-156-inch-fhd-win11.html]]></loc>
+<lastmod>2022-12-07T14:45:36+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/94-large_default/laptop-hp-probook-450-g9-6m107pa-i7-1260p-16gb-512gb-156-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Probook 450 G9 6M107PA i7-1260P/ 16GB/ 512GB/ 15.6 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/95-large_default/laptop-hp-probook-450-g9-6m107pa-i7-1260p-16gb-512gb-156-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Probook 450 G9 6M107PA i7-1260P/ 16GB/ 512GB/ 15.6 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/96-large_default/laptop-hp-probook-450-g9-6m107pa-i7-1260p-16gb-512gb-156-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Probook 450 G9 6M107PA i7-1260P/ 16GB/ 512GB/ 15.6 inch FHD/ Win11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/97-large_default/laptop-hp-probook-450-g9-6m107pa-i7-1260p-16gb-512gb-156-inch-fhd-win11.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Probook 450 G9 6M107PA i7-1260P/ 16GB/ 512GB/ 15.6 inch FHD/ Win11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/hp-laptop/41-.html]]></loc>
+<lastmod>2022-11-21T16:13:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/98-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Envy 13-ba1030TU 2K0B6PA i7 1165G7/ 8GB/ 512GB/ 13.3 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/99-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Envy 13-ba1030TU 2K0B6PA i7 1165G7/ 8GB/ 512GB/ 13.3 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/100-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Envy 13-ba1030TU 2K0B6PA i7 1165G7/ 8GB/ 512GB/ 13.3 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/101-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Envy 13-ba1030TU 2K0B6PA i7 1165G7/ 8GB/ 512GB/ 13.3 inch FHD/ Win 11]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/102-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Envy 13-ba1030TU 2K0B6PA i7 1165G7/ 8GB/ 512GB/ 13.3 inch FHD/ Win 11]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/hp-laptop/42-laptop-hp-elitebook-x360-1040-g8-3g1h4pa-i7-1165g7-16gb-512gb-14inch-fhd-win-10-bac.html]]></loc>
+<lastmod>2022-12-07T14:46:13+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/103-large_default/laptop-hp-elitebook-x360-1040-g8-3g1h4pa-i7-1165g7-16gb-512gb-14inch-fhd-win-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP EliteBook x360 1040 G8 3G1H4PA i7 1165G7/ 16GB/ 512GB/ 14inch FHD/ Win 10/ Bạc]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/104-large_default/laptop-hp-elitebook-x360-1040-g8-3g1h4pa-i7-1165g7-16gb-512gb-14inch-fhd-win-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP EliteBook x360 1040 G8 3G1H4PA i7 1165G7/ 16GB/ 512GB/ 14inch FHD/ Win 10/ Bạc]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/105-large_default/laptop-hp-elitebook-x360-1040-g8-3g1h4pa-i7-1165g7-16gb-512gb-14inch-fhd-win-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP EliteBook x360 1040 G8 3G1H4PA i7 1165G7/ 16GB/ 512GB/ 14inch FHD/ Win 10/ Bạc]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/106-large_default/laptop-hp-elitebook-x360-1040-g8-3g1h4pa-i7-1165g7-16gb-512gb-14inch-fhd-win-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP EliteBook x360 1040 G8 3G1H4PA i7 1165G7/ 16GB/ 512GB/ 14inch FHD/ Win 10/ Bạc]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/107-large_default/laptop-hp-elitebook-x360-1040-g8-3g1h4pa-i7-1165g7-16gb-512gb-14inch-fhd-win-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP EliteBook x360 1040 G8 3G1H4PA i7 1165G7/ 16GB/ 512GB/ 14inch FHD/ Win 10/ Bạc]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/108-large_default/laptop-hp-elitebook-x360-1040-g8-3g1h4pa-i7-1165g7-16gb-512gb-14inch-fhd-win-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP EliteBook x360 1040 G8 3G1H4PA i7 1165G7/ 16GB/ 512GB/ 14inch FHD/ Win 10/ Bạc]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/hp-laptop/43-laptop-hp-victus-16-e0179ax-4r0v0pa-ryzen-5-5600h8gb-ram512gb-ssd.html]]></loc>
+<lastmod>2022-12-07T14:46:56+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/109-large_default/laptop-hp-victus-16-e0179ax-4r0v0pa-ryzen-5-5600h8gb-ram512gb-ssd.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP VICTUS 16-E0179AX 4R0V0PA (Ryzen 5-5600H/8GB RAM/512GB SSD]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/110-large_default/laptop-hp-victus-16-e0179ax-4r0v0pa-ryzen-5-5600h8gb-ram512gb-ssd.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP VICTUS 16-E0179AX 4R0V0PA (Ryzen 5-5600H/8GB RAM/512GB SSD]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/111-large_default/laptop-hp-victus-16-e0179ax-4r0v0pa-ryzen-5-5600h8gb-ram512gb-ssd.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP VICTUS 16-E0179AX 4R0V0PA (Ryzen 5-5600H/8GB RAM/512GB SSD]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/hp-laptop/44-laptop-hp-zbook-firefly-14-g8-1a2f1av-i5-1135g7-16g512ssd-intel-iris-xe-graphics-14fhd-windows-10-bac.html]]></loc>
+<lastmod>2022-12-07T14:48:03+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/112-large_default/laptop-hp-zbook-firefly-14-g8-1a2f1av-i5-1135g7-16g512ssd-intel-iris-xe-graphics-14fhd-windows-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP ZBook Firefly 14 G8 1A2F1AV (i5-1135G7 / 16G,512SSD / Intel Iris Xe Graphics / 14FHD / Windows 10 / bạc)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/113-large_default/laptop-hp-zbook-firefly-14-g8-1a2f1av-i5-1135g7-16g512ssd-intel-iris-xe-graphics-14fhd-windows-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP ZBook Firefly 14 G8 1A2F1AV (i5-1135G7 / 16G,512SSD / Intel Iris Xe Graphics / 14FHD / Windows 10 / bạc)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/114-large_default/laptop-hp-zbook-firefly-14-g8-1a2f1av-i5-1135g7-16g512ssd-intel-iris-xe-graphics-14fhd-windows-10-bac.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP ZBook Firefly 14 G8 1A2F1AV (i5-1135G7 / 16G,512SSD / Intel Iris Xe Graphics / 14FHD / Windows 10 / bạc)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/46-asus.html]]></loc>
+<lastmod>2022-11-27T12:13:33+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/115-large_default/asus.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[ASUS]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/116-large_default/asus.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[ASUS]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/117-large_default/asus.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[ASUS]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/118-large_default/asus.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[ASUS]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/48-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/123-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Router Wifi Asus RT-N12+B1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/124-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Router Wifi Asus RT-N12+B1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/125-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Router Wifi Asus RT-N12+B1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/126-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Router Wifi Asus RT-N12+B1]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/49-asus-pce-ax3000.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/127-large_default/asus-pce-ax3000.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Asus PCE-AX3000]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/50-router-wifi-6-asus-rt-ax55.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/128-large_default/router-wifi-6-asus-rt-ax55.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Router Wifi 6 Asus RT-AX55]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/51-tui-chng-sc-156-cao-cap.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/129-large_default/tui-chng-sc-156-cao-cap.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Túi chống sốc 15.6&amp;quot; cao cấp]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/130-large_default/tui-chng-sc-156-cao-cap.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Túi chống sốc 15.6&amp;quot; cao cấp]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/131-large_default/tui-chng-sc-156-cao-cap.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Túi chống sốc 15.6&amp;quot; cao cấp]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/132-large_default/tui-chng-sc-156-cao-cap.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Túi chống sốc 15.6&amp;quot; cao cấp]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/52-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/133-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo ASUS ROG 15&amp;quot;]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/134-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo ASUS ROG 15&amp;quot;]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/135-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo ASUS ROG 15&amp;quot;]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/136-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo ASUS ROG 15&amp;quot;]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/53-balo-acer-predator-suv.html]]></loc>
+<lastmod>2022-12-07T14:21:13+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/137-large_default/balo-acer-predator-suv.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator SUV]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/138-large_default/balo-acer-predator-suv.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator SUV]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/139-large_default/balo-acer-predator-suv.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator SUV]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/140-large_default/balo-acer-predator-suv.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator SUV]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/54-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/141-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator Utility]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/142-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator Utility]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/143-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator Utility]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/144-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Acer Predator Utility]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/55-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/145-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Lenovo Legion Active Gaming]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/146-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Lenovo Legion Active Gaming]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/147-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Lenovo Legion Active Gaming]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/148-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Lenovo Legion Active Gaming]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/149-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Balo Lenovo Legion Active Gaming]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/56-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/150-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master NOTEPAL CMC3 (C3)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/151-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master NOTEPAL CMC3 (C3)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/57-de-tan-nhiet-laptop-cooler-master-l1.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/152-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/153-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/154-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/155-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/156-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/58-de-tan-nhiet-laptop-cooler-master-l1.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/157-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/158-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/159-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/160-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/161-large_default/de-tan-nhiet-laptop-cooler-master-l1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master L1]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/59-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/162-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master X150R SPECTRUM RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/163-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master X150R SPECTRUM RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/164-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master X150R SPECTRUM RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/165-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master X150R SPECTRUM RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/166-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master X150R SPECTRUM RGB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/60-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/167-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master Ergostand Air]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/168-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master Ergostand Air]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/169-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master Ergostand Air]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/170-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Đế tản nhiệt laptop Cooler Master Ergostand Air]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/61-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/171-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Giá đỡ VGA ASUS XH01 ROG HERCULX aRGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/172-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Giá đỡ VGA ASUS XH01 ROG HERCULX aRGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/173-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Giá đỡ VGA ASUS XH01 ROG HERCULX aRGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/174-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Giá đỡ VGA ASUS XH01 ROG HERCULX aRGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/175-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Giá đỡ VGA ASUS XH01 ROG HERCULX aRGB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/63-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/176-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Cáp VGA Cooler Master MasterAccessory Riser PCIe 4.0 x16 - 300mm]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/177-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Cáp VGA Cooler Master MasterAccessory Riser PCIe 4.0 x16 - 300mm]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/178-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Cáp VGA Cooler Master MasterAccessory Riser PCIe 4.0 x16 - 300mm]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/179-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Cáp VGA Cooler Master MasterAccessory Riser PCIe 4.0 x16 - 300mm]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/180-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Cáp VGA Cooler Master MasterAccessory Riser PCIe 4.0 x16 - 300mm]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/64-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/181-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ống bọc tản nhiệt Cooler Master Led Tube Sleeve A1 (12mm) ARGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/182-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ống bọc tản nhiệt Cooler Master Led Tube Sleeve A1 (12mm) ARGB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/65-.html]]></loc>
+<lastmod>2022-12-03T10:55:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/183-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Keo tản nhiệt CPU Cooler Master Gel Pro V2]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/184-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Keo tản nhiệt CPU Cooler Master Gel Pro V2]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/185-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Keo tản nhiệt CPU Cooler Master Gel Pro V2]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/186-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Keo tản nhiệt CPU Cooler Master Gel Pro V2]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/66-laptop-msi-modern-14-b11mou-1030vn-iris-xe-intel-core-i3-1115g4-8gb-256gb-14.html]]></loc>
+<lastmod>2022-12-07T14:21:30+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/187-large_default/laptop-msi-modern-14-b11mou-1030vn-iris-xe-intel-core-i3-1115g4-8gb-256gb-14.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop MSI Modern 14 B11MOU 1030VN Iris Xe Intel Core i3 1115G4 8GB 256GB 14]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/188-large_default/laptop-msi-modern-14-b11mou-1030vn-iris-xe-intel-core-i3-1115g4-8gb-256gb-14.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop MSI Modern 14 B11MOU 1030VN Iris Xe Intel Core i3 1115G4 8GB 256GB 14]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/189-large_default/laptop-msi-modern-14-b11mou-1030vn-iris-xe-intel-core-i3-1115g4-8gb-256gb-14.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop MSI Modern 14 B11MOU 1030VN Iris Xe Intel Core i3 1115G4 8GB 256GB 14]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/190-large_default/laptop-msi-modern-14-b11mou-1030vn-iris-xe-intel-core-i3-1115g4-8gb-256gb-14.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop MSI Modern 14 B11MOU 1030VN Iris Xe Intel Core i3 1115G4 8GB 256GB 14]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/191-large_default/laptop-msi-modern-14-b11mou-1030vn-iris-xe-intel-core-i3-1115g4-8gb-256gb-14.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop MSI Modern 14 B11MOU 1030VN Iris Xe Intel Core i3 1115G4 8GB 256GB 14]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/67-laptop-gaming-msi-bravo-15-b5dd-276vn-radeon-rx5500m-ryzen-5-5600h-8gb-512gb-156.html]]></loc>
+<lastmod>2022-12-07T14:20:57+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/192-large_default/laptop-gaming-msi-bravo-15-b5dd-276vn-radeon-rx5500m-ryzen-5-5600h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Bravo 15 B5DD 276VN Radeon RX5500M Ryzen 5 5600H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/193-large_default/laptop-gaming-msi-bravo-15-b5dd-276vn-radeon-rx5500m-ryzen-5-5600h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Bravo 15 B5DD 276VN Radeon RX5500M Ryzen 5 5600H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/194-large_default/laptop-gaming-msi-bravo-15-b5dd-276vn-radeon-rx5500m-ryzen-5-5600h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Bravo 15 B5DD 276VN Radeon RX5500M Ryzen 5 5600H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/195-large_default/laptop-gaming-msi-bravo-15-b5dd-276vn-radeon-rx5500m-ryzen-5-5600h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Bravo 15 B5DD 276VN Radeon RX5500M Ryzen 5 5600H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/196-large_default/laptop-gaming-msi-bravo-15-b5dd-276vn-radeon-rx5500m-ryzen-5-5600h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Bravo 15 B5DD 276VN Radeon RX5500M Ryzen 5 5600H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/68-.html]]></loc>
+<lastmod>2022-12-07T14:23:39+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/197-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Alpha 15 B5EEK 203VN/216VN Radeon RX6600M 8GB Ryzen 5 5600H 8GB 512GB 15.6]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/198-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Alpha 15 B5EEK 203VN/216VN Radeon RX6600M 8GB Ryzen 5 5600H 8GB 512GB 15.6]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/199-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Alpha 15 B5EEK 203VN/216VN Radeon RX6600M 8GB Ryzen 5 5600H 8GB 512GB 15.6]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/200-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Alpha 15 B5EEK 203VN/216VN Radeon RX6600M 8GB Ryzen 5 5600H 8GB 512GB 15.6]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/201-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Alpha 15 B5EEK 203VN/216VN Radeon RX6600M 8GB Ryzen 5 5600H 8GB 512GB 15.6]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/69-laptop-gaming-msi-gf63-thin-11sc-665vn-664vn-geforce-gtx-1650-4gb-intel-core-i5-11400h-8gb-512gb-156.html]]></loc>
+<lastmod>2022-12-07T14:28:06+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/202-large_default/laptop-gaming-msi-gf63-thin-11sc-665vn-664vn-geforce-gtx-1650-4gb-intel-core-i5-11400h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GF63 Thin 11SC 665VN / 664VN Geforce GTX 1650 4GB Intel Core i5 11400H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/203-large_default/laptop-gaming-msi-gf63-thin-11sc-665vn-664vn-geforce-gtx-1650-4gb-intel-core-i5-11400h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GF63 Thin 11SC 665VN / 664VN Geforce GTX 1650 4GB Intel Core i5 11400H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/204-large_default/laptop-gaming-msi-gf63-thin-11sc-665vn-664vn-geforce-gtx-1650-4gb-intel-core-i5-11400h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GF63 Thin 11SC 665VN / 664VN Geforce GTX 1650 4GB Intel Core i5 11400H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/205-large_default/laptop-gaming-msi-gf63-thin-11sc-665vn-664vn-geforce-gtx-1650-4gb-intel-core-i5-11400h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GF63 Thin 11SC 665VN / 664VN Geforce GTX 1650 4GB Intel Core i5 11400H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/206-large_default/laptop-gaming-msi-gf63-thin-11sc-665vn-664vn-geforce-gtx-1650-4gb-intel-core-i5-11400h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GF63 Thin 11SC 665VN / 664VN Geforce GTX 1650 4GB Intel Core i5 11400H 8GB 512GB 15.6”]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/70-laptop-gaming-msi-ge66-raider-12ugs-463vn-rtx-3070ti-8gb.html]]></loc>
+<lastmod>2022-12-07T14:32:05+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/207-large_default/laptop-gaming-msi-ge66-raider-12ugs-463vn-rtx-3070ti-8gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GE66 Raider 12UGS 463VN RTX 3070Ti 8GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/208-large_default/laptop-gaming-msi-ge66-raider-12ugs-463vn-rtx-3070ti-8gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GE66 Raider 12UGS 463VN RTX 3070Ti 8GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/209-large_default/laptop-gaming-msi-ge66-raider-12ugs-463vn-rtx-3070ti-8gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GE66 Raider 12UGS 463VN RTX 3070Ti 8GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/210-large_default/laptop-gaming-msi-ge66-raider-12ugs-463vn-rtx-3070ti-8gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GE66 Raider 12UGS 463VN RTX 3070Ti 8GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/211-large_default/laptop-gaming-msi-ge66-raider-12ugs-463vn-rtx-3070ti-8gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI GE66 Raider 12UGS 463VN RTX 3070Ti 8GB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/71-laptop-gaming-msi-titan-gt77-12uhs-204vn-rtx-3080ti-16gb.html]]></loc>
+<lastmod>2022-12-07T14:34:06+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/212-large_default/laptop-gaming-msi-titan-gt77-12uhs-204vn-rtx-3080ti-16gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Titan GT77 12UHS 204VN RTX 3080Ti 16GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/213-large_default/laptop-gaming-msi-titan-gt77-12uhs-204vn-rtx-3080ti-16gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Titan GT77 12UHS 204VN RTX 3080Ti 16GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/214-large_default/laptop-gaming-msi-titan-gt77-12uhs-204vn-rtx-3080ti-16gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Titan GT77 12UHS 204VN RTX 3080Ti 16GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/215-large_default/laptop-gaming-msi-titan-gt77-12uhs-204vn-rtx-3080ti-16gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Titan GT77 12UHS 204VN RTX 3080Ti 16GB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/216-large_default/laptop-gaming-msi-titan-gt77-12uhs-204vn-rtx-3080ti-16gb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop Gaming MSI Titan GT77 12UHS 204VN RTX 3080Ti 16GB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/72-laptop-hp-victus-15-fa0110tx-7c0r3pa-rtx-3050-4gb-intel-i7-12700h-8gb-512gb-156.html]]></loc>
+<lastmod>2022-12-07T14:37:35+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/217-large_default/laptop-hp-victus-15-fa0110tx-7c0r3pa-rtx-3050-4gb-intel-i7-12700h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 15 fa0110TX (7C0R3PA) RTX 3050 4GB Intel i7 12700H 8GB 512GB 15.6″]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/218-large_default/laptop-hp-victus-15-fa0110tx-7c0r3pa-rtx-3050-4gb-intel-i7-12700h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 15 fa0110TX (7C0R3PA) RTX 3050 4GB Intel i7 12700H 8GB 512GB 15.6″]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/219-large_default/laptop-hp-victus-15-fa0110tx-7c0r3pa-rtx-3050-4gb-intel-i7-12700h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 15 fa0110TX (7C0R3PA) RTX 3050 4GB Intel i7 12700H 8GB 512GB 15.6″]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/220-large_default/laptop-hp-victus-15-fa0110tx-7c0r3pa-rtx-3050-4gb-intel-i7-12700h-8gb-512gb-156.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 15 fa0110TX (7C0R3PA) RTX 3050 4GB Intel i7 12700H 8GB 512GB 15.6″]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/73-laptop-hp-victus-16-e1102ax-7c139pa-rtx-3050ti-4gb-ryzen-7-6800h-16gb-512gb-161.html]]></loc>
+<lastmod>2022-12-07T14:42:24+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/221-large_default/laptop-hp-victus-16-e1102ax-7c139pa-rtx-3050ti-4gb-ryzen-7-6800h-16gb-512gb-161.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 16 e1102AX (7C139PA) RTX 3050Ti 4GB Ryzen 7 6800H 16GB 512GB 16.1″]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/222-large_default/laptop-hp-victus-16-e1102ax-7c139pa-rtx-3050ti-4gb-ryzen-7-6800h-16gb-512gb-161.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 16 e1102AX (7C139PA) RTX 3050Ti 4GB Ryzen 7 6800H 16GB 512GB 16.1″]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/223-large_default/laptop-hp-victus-16-e1102ax-7c139pa-rtx-3050ti-4gb-ryzen-7-6800h-16gb-512gb-161.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 16 e1102AX (7C139PA) RTX 3050Ti 4GB Ryzen 7 6800H 16GB 512GB 16.1″]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/224-large_default/laptop-hp-victus-16-e1102ax-7c139pa-rtx-3050ti-4gb-ryzen-7-6800h-16gb-512gb-161.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Laptop HP Victus 16 e1102AX (7C139PA) RTX 3050Ti 4GB Ryzen 7 6800H 16GB 512GB 16.1″]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/74-.html]]></loc>
+<lastmod>2022-12-08T10:58:55+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/225-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[PC Xgear FA1 Ryzen 5 5600G 16GB RAM 128GB SSD]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/75-.html]]></loc>
+<lastmod>2022-12-08T11:06:01+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/226-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[PC Xgear Fi3 Core i3-12100F 8GB GTX 1650 4GB 128GB SSD]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/76-pc-xgear-fi5-core-i5-12400f-16gb-gtx-1650-250gb-ssd-nvme.html]]></loc>
+<lastmod>2022-12-08T11:06:59+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/227-large_default/pc-xgear-fi5-core-i5-12400f-16gb-gtx-1650-250gb-ssd-nvme.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[PC Xgear Fi5 Core i5-12400F 16GB GTX 1650 250GB SSD NVMe]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/77-pc-xgear-fi3-core-i3-12100f-8gb-rtx-2060-128gb-ssd.html]]></loc>
+<lastmod>2022-12-08T11:07:48+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/228-large_default/pc-xgear-fi3-core-i3-12100f-8gb-rtx-2060-128gb-ssd.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[PC Xgear Fi3 Core i3-12100F 8GB RTX 2060 128GB SSD]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/78-ban-phim-logitech-k120-920-002582-con-hang-6.html]]></loc>
+<lastmod>2022-12-12T11:04:00+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/229-large_default/ban-phim-logitech-k120-920-002582-con-hang-6.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bàn phím Logitech K120 (920-002582) Còn hàng -6%]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/79-ban-phim-co-rapoo-v500se-rainbow-led-blue-switch.html]]></loc>
+<lastmod>2022-12-12T11:05:04+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/230-large_default/ban-phim-co-rapoo-v500se-rainbow-led-blue-switch.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bàn phím cơ Rapoo V500SE Rainbow LED Blue Switch]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/80-ban-phim-gaming-havit-kb869l-blue-sw.html]]></loc>
+<lastmod>2022-12-12T11:06:26+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/231-large_default/ban-phim-gaming-havit-kb869l-blue-sw.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bàn phím gaming HAVIT KB869L (Blue SW)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/81-ban-phim-khong-day-logitech-k480-bluetooth-den.html]]></loc>
+<lastmod>2022-12-12T11:07:35+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/232-large_default/ban-phim-khong-day-logitech-k480-bluetooth-den.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bàn phím không dây Logitech K480 Bluetooth Đen]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/82-chut-quang-usb-logitech-b100.html]]></loc>
+<lastmod>2022-12-12T11:08:39+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/233-large_default/chut-quang-usb-logitech-b100.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Chuột quang USB Logitech B100]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/83-chut-gaming-havit-ms1003.html]]></loc>
+<lastmod>2022-12-12T11:11:01+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/236-large_default/chut-gaming-havit-ms1003.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Chuột gaming HAVIT MS1003]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/84-chut-gaming-havit-ms1006.html]]></loc>
+<lastmod>2022-12-12T11:11:17+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/237-large_default/chut-gaming-havit-ms1006.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Chuột gaming HAVIT MS1006]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/87-chut-gaming-havit-ms1026.html]]></loc>
+<lastmod>2022-12-12T11:11:56+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/238-large_default/chut-gaming-havit-ms1026.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Chuột gaming HAVIT MS1026]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/88-chut-khong-day-rapoo-m650-worldcup-ha-lan-bluetooth-wireless.html]]></loc>
+<lastmod>2022-12-12T11:13:26+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/239-large_default/chut-khong-day-rapoo-m650-worldcup-ha-lan-bluetooth-wireless.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Chuột không dây Rapoo M650 Worldcup Hà Lan (Bluetooth/ Wireless)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/89-lot-chut-asus-tuf-gaming-p1-nc13.html]]></loc>
+<lastmod>2022-12-12T11:46:41+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/240-large_default/lot-chut-asus-tuf-gaming-p1-nc13.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Lót chuột Asus TUF GAMING P1 (NC13)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/241-large_default/lot-chut-asus-tuf-gaming-p1-nc13.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Lót chuột Asus TUF GAMING P1 (NC13)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/242-large_default/lot-chut-asus-tuf-gaming-p1-nc13.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Lót chuột Asus TUF GAMING P1 (NC13)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/243-large_default/lot-chut-asus-tuf-gaming-p1-nc13.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Lót chuột Asus TUF GAMING P1 (NC13)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/244-large_default/lot-chut-asus-tuf-gaming-p1-nc13.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Lót chuột Asus TUF GAMING P1 (NC13)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/90-lot-chut-razer-goliathus-mobile-small-270x215mm-rz02-01820200-r3m1.html]]></loc>
+<lastmod>2022-12-12T11:41:34+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/245-large_default/lot-chut-razer-goliathus-mobile-small-270x215mm-rz02-01820200-r3m1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Lót chuột Razer Goliathus Mobile Small (270x215mm) (RZ02-01820200-R3M1)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/91-tai-nghe-rapoo-vm150-in-ear-gaming-headphone-red.html]]></loc>
+<lastmod>2022-12-12T11:42:43+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/246-large_default/tai-nghe-rapoo-vm150-in-ear-gaming-headphone-red.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tai nghe Rapoo VM150 In-ear Gaming Headphone RED]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/92-tai-nghe-gaming-havit-h2022u-rgb-usb-71.html]]></loc>
+<lastmod>2022-12-12T11:43:27+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/247-large_default/tai-nghe-gaming-havit-h2022u-rgb-usb-71.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tai nghe gaming HAVIT H2022U RGB USB 7.1]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/93-tai-nghe-hyperx-cloud-stinger-s-71-4p4f1aa-hhss1s-aa-bkg.html]]></loc>
+<lastmod>2022-12-12T11:44:31+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/248-large_default/tai-nghe-hyperx-cloud-stinger-s-71-4p4f1aa-hhss1s-aa-bkg.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tai nghe HyperX Cloud Stinger S 7.1 (4P4F1AA) (HHSS1S-AA-BK/G)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/94-microphone-razer-seiren-mini-rz19-03450100-r3m1.html]]></loc>
+<lastmod>2022-12-12T11:45:20+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/249-large_default/microphone-razer-seiren-mini-rz19-03450100-r3m1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Microphone Razer Seiren Mini (RZ19-03450100-R3M1)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/95-microphone-hyperx-quadcast-hx-micqc-bk-4p5p6aa.html]]></loc>
+<lastmod>2022-12-12T11:46:18+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/250-large_default/microphone-hyperx-quadcast-hx-micqc-bk-4p5p6aa.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Microphone HyperX QuadCast (HX-MICQC-BK) 4P5P6AA]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/251-large_default/microphone-hyperx-quadcast-hx-micqc-bk-4p5p6aa.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Microphone HyperX QuadCast (HX-MICQC-BK) 4P5P6AA]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/252-large_default/microphone-hyperx-quadcast-hx-micqc-bk-4p5p6aa.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Microphone HyperX QuadCast (HX-MICQC-BK) 4P5P6AA]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/253-large_default/microphone-hyperx-quadcast-hx-micqc-bk-4p5p6aa.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Microphone HyperX QuadCast (HX-MICQC-BK) 4P5P6AA]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/254-large_default/microphone-hyperx-quadcast-hx-micqc-bk-4p5p6aa.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Microphone HyperX QuadCast (HX-MICQC-BK) 4P5P6AA]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/97-loa-bluetooth-kiem-dng-h-bao-thc-radio-dang-gong-havit-m3.html]]></loc>
+<lastmod>2022-12-12T11:47:37+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/255-large_default/loa-bluetooth-kiem-dng-h-bao-thc-radio-dang-gong-havit-m3.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Loa Bluetooth kiêm đồng hồ báo thức Radio dạng gương Havit M3]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/98-loa-may-vi-tinh-havit-sk202-cong-suat-5w2.html]]></loc>
+<lastmod>2022-12-12T11:48:11+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/256-large_default/loa-may-vi-tinh-havit-sk202-cong-suat-5w2.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Loa máy vi tính HAVIT SK202 (công suất 5W*2)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/99-.html]]></loc>
+<lastmod>2022-12-12T11:49:11+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/257-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Webcam Genius RS2 Facecam 1000X V2 720p]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/100-webcam-rapoo-c200-720p-hd.html]]></loc>
+<lastmod>2022-12-12T11:49:50+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/258-large_default/webcam-rapoo-c200-720p-hd.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Webcam Rapoo C200 720p HD]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/101-.html]]></loc>
+<lastmod>2022-12-12T11:50:28+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/259-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Webcam Asus C3]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/102-webcam-asus-rog-eye-s-fhd-1080p-60fps-.html]]></loc>
+<lastmod>2022-12-12T11:51:01+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/260-large_default/webcam-asus-rog-eye-s-fhd-1080p-60fps-.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Webcam Asus Rog Eye S (FHD 1080P , 60FPS )]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/103-cpu-intel-pentium-g6405-410-ghz-bx8070110100f-s-rh8u.html]]></loc>
+<lastmod>2022-12-12T11:55:37+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/261-large_default/cpu-intel-pentium-g6405-410-ghz-bx8070110100f-s-rh8u.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[CPU Intel Pentium G6405 - 4.10 GHz (BX8070110100F S RH8U)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/104-cpu-intel-core-i3-12100f-12m-cache-up-to-430-ghz-4-cores-8-threads.html]]></loc>
+<lastmod>2022-12-12T11:56:32+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/262-large_default/cpu-intel-core-i3-12100f-12m-cache-up-to-430-ghz-4-cores-8-threads.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[CPU Intel Core i3-12100F (12M Cache, up to 4.30 GHz) 4 cores 8 threads]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/105-cpu-amd-ryzen-5-5600-35ghz-44-ghz-with-boost-6-core-12-threads.html]]></loc>
+<lastmod>2022-12-12T11:57:24+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/263-large_default/cpu-amd-ryzen-5-5600-35ghz-44-ghz-with-boost-6-core-12-threads.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[CPU AMD Ryzen 5 5600 3.5GHz (4.4 GHz with boost) 6 core 12 threads]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/106-cpu-amd-ryzen-5-5600g-39ghz-44-ghz-with-boost-6-core-12-threads.html]]></loc>
+<lastmod>2022-12-12T11:58:00+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/264-large_default/cpu-amd-ryzen-5-5600g-39ghz-44-ghz-with-boost-6-core-12-threads.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[CPU AMD Ryzen 5 5600G 3.9GHz (4.4 GHz with boost) 6 core 12 threads]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/107-cpu-intel-core-i5-12400f-18m-cache-up-to-440-ghz-6-core-12-thread.html]]></loc>
+<lastmod>2022-12-12T11:59:04+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/265-large_default/cpu-intel-core-i5-12400f-18m-cache-up-to-440-ghz-6-core-12-thread.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[CPU Intel Core i5-12400F (18M Cache, up to 4.40 GHz) 6 Core 12 Thread]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/108-cpu-amd-ryzen-5-7600x-socket-amd-am5.html]]></loc>
+<lastmod>2022-12-12T12:07:44+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/266-large_default/cpu-amd-ryzen-5-7600x-socket-amd-am5.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[CPU AMD Ryzen 5 7600X - Socket AMD AM5]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/109-mainboard-msi-b450m-pro-vdh-max-matx-amd-am4.html]]></loc>
+<lastmod>2022-12-12T12:08:28+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/267-large_default/mainboard-msi-b450m-pro-vdh-max-matx-amd-am4.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Mainboard MSI B450M PRO-VDH MAX - mATX AMD AM4]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/110-mainboard-asus-prime-b450m-a-ii-socket-am4-matx.html]]></loc>
+<lastmod>2022-12-12T12:09:03+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/268-large_default/mainboard-asus-prime-b450m-a-ii-socket-am4-matx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Mainboard ASUS PRIME B450M-A II Socket AM4 - mATX]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/111-mainboard-asus-tuf-gaming-b550m-plus-wifi-socket-amd-am4.html]]></loc>
+<lastmod>2022-12-12T12:09:49+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/269-large_default/mainboard-asus-tuf-gaming-b550m-plus-wifi-socket-amd-am4.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Mainboard Asus TUF-GAMING-B550M-PLUS Wifi Socket AMD AM4]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/112-mainboard-gigabyte-ga-b660m-aorus-pro-ddr4-socket-intel-lga-1700.html]]></loc>
+<lastmod>2022-12-12T12:10:36+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/270-large_default/mainboard-gigabyte-ga-b660m-aorus-pro-ddr4-socket-intel-lga-1700.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Mainboard Gigabyte GA-B660M AORUS PRO DDR4 Socket Intel LGA 1700]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/113-ram-laptop-4gb-ddr4-bus-3200mhz-oem.html]]></loc>
+<lastmod>2022-12-12T12:14:56+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/271-large_default/ram-laptop-4gb-ddr4-bus-3200mhz-oem.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ram Laptop 4GB DDR4 Bus 3200Mhz (OEM)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/114-ram-pc-teamgroup-t-force-vulcan-z-gray-8gb-ddr4-3200-tlzgd48g3200hc16c01.html]]></loc>
+<lastmod>2022-12-12T12:15:15+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/272-large_default/ram-pc-teamgroup-t-force-vulcan-z-gray-8gb-ddr4-3200-tlzgd48g3200hc16c01.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ram PC TeamGroup T-Force Vulcan Z Gray 8GB DDR4-3200 (TLZGD48G3200HC16C01)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/115-ram-kingston-fury-beast-8gb-ddr4-3200-mhz-kf432c16bb8.html]]></loc>
+<lastmod>2022-12-12T12:13:28+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/273-large_default/ram-kingston-fury-beast-8gb-ddr4-3200-mhz-kf432c16bb8.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[RAM Kingston Fury Beast 8GB DDR4 3200 Mhz (KF432C16BB/8)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/116-ram-laptop-lexar-ddr4-8gb-bus-3200-ld4as008g-r3200gsst-con-h.html]]></loc>
+<lastmod>2022-12-12T12:13:58+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/274-large_default/ram-laptop-lexar-ddr4-8gb-bus-3200-ld4as008g-r3200gsst-con-h.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ram Laptop Lexar DDR4 8GB Bus 3200 (LD4AS008G - R3200GSST) Còn h]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/117-ram-gskill-ripjaws-v-red-16gb-8gb-x2-ddr4-3000mhz-f4-3000c16s-16gisb.html]]></loc>
+<lastmod>2022-12-12T12:14:37+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/275-large_default/ram-gskill-ripjaws-v-red-16gb-8gb-x2-ddr4-3000mhz-f4-3000c16s-16gisb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[RAM GSkill Ripjaws V Red 16GB (8GB x2) DDR4 3000Mhz (F4-3000C16S-16GISB)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/118-vga-asus-phoenix-gtx-1650-oc-4gb-ddr6-ph-gtx1650-o4gd6.html]]></loc>
+<lastmod>2022-12-12T12:16:02+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/276-large_default/vga-asus-phoenix-gtx-1650-oc-4gb-ddr6-ph-gtx1650-o4gd6.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[VGA ASUS Phoenix GTX 1650 OC 4GB DDR6 (PH-GTX1650-O4GD6)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/120-card-d-ha-msi-geforce-gtx-1650-ventus-xs-4g-ocv1.html]]></loc>
+<lastmod>2022-12-12T12:17:12+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/278-large_default/card-d-ha-msi-geforce-gtx-1650-ventus-xs-4g-ocv1.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Card đồ họa MSI GeForce GTX 1650 VENTUS XS 4G OCV1]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/121-card-man-hinh-gigabyte-radeon-rx-6500-xt-eagle-4gb-gv-r65xteagle-4gd.html]]></loc>
+<lastmod>2022-12-12T12:18:03+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/279-large_default/card-man-hinh-gigabyte-radeon-rx-6500-xt-eagle-4gb-gv-r65xteagle-4gd.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Card Màn Hình Gigabyte Radeon RX 6500 XT Eagle 4GB (GV-R65XTEAGLE-4GD)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/122-vga-asus-tuf-gaming-gtx-1660-super-oc-6gb-ddr6-tuf-gtx1660s-o6g-gaming.html]]></loc>
+<lastmod>2022-12-12T12:18:32+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/280-large_default/vga-asus-tuf-gaming-gtx-1660-super-oc-6gb-ddr6-tuf-gtx1660s-o6g-gaming.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[VGA ASUS TUF Gaming GTX 1660 Super OC 6GB DDR6 (TUF-GTX1660S-O6G-GAMING)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/123-card-man-hinh-gigabyte-radeon-rx-6500-xt-gaming-oc-4gb-gv-r65xtgaming-oc-4gd.html]]></loc>
+<lastmod>2022-12-12T12:19:12+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/281-large_default/card-man-hinh-gigabyte-radeon-rx-6500-xt-gaming-oc-4gb-gv-r65xtgaming-oc-4gd.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Card Màn Hình Gigabyte Radeon RX 6500 XT Gaming OC 4GB (GV-R65XTGAMING OC-4GD)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/124-ssd-lexar-ns100-25-inch-sata-iii-128gb-lns100-128rb.html]]></loc>
+<lastmod>2022-12-12T12:21:31+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/282-large_default/ssd-lexar-ns100-25-inch-sata-iii-128gb-lns100-128rb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[SSD Lexar NS100 2.5-Inch SATA III 128GB LNS100-128RB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/283-large_default/ssd-lexar-ns100-25-inch-sata-iii-128gb-lns100-128rb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[SSD Lexar NS100 2.5-Inch SATA III 128GB LNS100-128RB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/125-ssd-msi-spatium-s270-120gb-sata-iii-25.html]]></loc>
+<lastmod>2022-12-12T12:22:01+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/284-large_default/ssd-msi-spatium-s270-120gb-sata-iii-25.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[SSD MSI Spatium S270 120GB Sata III 2.5&amp;quot;]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/285-large_default/ssd-msi-spatium-s270-120gb-sata-iii-25.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[SSD MSI Spatium S270 120GB Sata III 2.5&amp;quot;]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/286-large_default/ssd-msi-spatium-s270-120gb-sata-iii-25.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[SSD MSI Spatium S270 120GB Sata III 2.5&amp;quot;]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/126-.html]]></loc>
+<lastmod>2022-12-12T12:22:45+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/287-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ cứng SSD MSI Spatium M390 250GB Nvme PCIe Gen3 X4 M.2 2280]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/288-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ cứng SSD MSI Spatium M390 250GB Nvme PCIe Gen3 X4 M.2 2280]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/289-large_default/.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ cứng SSD MSI Spatium M390 250GB Nvme PCIe Gen3 X4 M.2 2280]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/127--cng-ssd-kingston-ssd-nv2-250gb-nvme-pcie-gen4-x4-m2-2280-snv2s250g.html]]></loc>
+<lastmod>2022-12-12T12:23:12+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/290-large_default/-cng-ssd-kingston-ssd-nv2-250gb-nvme-pcie-gen4-x4-m2-2280-snv2s250g.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ cứng SSD Kingston SSD NV2 250GB NVMe PCIe Gen4 X4 M.2 2280 (SNV2S/250G)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/128--cng-ssd-lexar-nm620-256gb-nvme-pcie-gen3-x4-m2-2280-lnm620x256g-rnnng.html]]></loc>
+<lastmod>2022-12-12T12:23:50+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/291-large_default/-cng-ssd-lexar-nm620-256gb-nvme-pcie-gen3-x4-m2-2280-lnm620x256g-rnnng.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ cứng SSD Lexar NM620 256GB NVMe PCIe Gen3 X4 M.2 2280 (LNM620X256G - RNNNG)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/292-large_default/-cng-ssd-lexar-nm620-256gb-nvme-pcie-gen3-x4-m2-2280-lnm620x256g-rnnng.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ cứng SSD Lexar NM620 256GB NVMe PCIe Gen3 X4 M.2 2280 (LNM620X256G - RNNNG)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/130--dia-cng-hdd-wd-blue-1tb-35-7200-rpm-64mb-cache-wd10ezex.html]]></loc>
+<lastmod>2022-12-12T12:24:31+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/293-large_default/-dia-cng-hdd-wd-blue-1tb-35-7200-rpm-64mb-cache-wd10ezex.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ đĩa cứng HDD WD Blue 1TB 3.5' 7200 rpm 64MB Cache (WD10EZEX)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/131--dia-cng-hdd-seagate-barracuda-1tb-35-7200-rpm-64mb-cache-st1000dm010.html]]></loc>
+<lastmod>2022-12-12T12:24:59+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/294-large_default/-dia-cng-hdd-seagate-barracuda-1tb-35-7200-rpm-64mb-cache-st1000dm010.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ đĩa cứng HDD Seagate BarraCuda 1TB 3.5&amp;quot; 7200 Rpm 64MB Cache (ST1000DM010)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/132--dia-cng-laptop-hdd-wd-blue-1tb-25-5400-rpm-128mb-cache-wd10spzx.html]]></loc>
+<lastmod>2022-12-12T12:25:36+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/295-large_default/-dia-cng-laptop-hdd-wd-blue-1tb-25-5400-rpm-128mb-cache-wd10spzx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ đĩa cứng Laptop HDD WD BLUE 1TB 2.5&amp;quot; 5400 Rpm 128MB Cache (WD10SPZX)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/133--dia-cng-laptop-hdd-seagate-barracuda-1tb-25-5400-rpm-128mb-cache-st1000lm048.html]]></loc>
+<lastmod>2022-12-12T12:26:18+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/296-large_default/-dia-cng-laptop-hdd-seagate-barracuda-1tb-25-5400-rpm-128mb-cache-st1000lm048.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ đĩa cứng Laptop HDD Seagate BarraCuda 1TB 2.5&amp;quot; 5400 rpm 128MB Cache (ST1000LM048)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/297-large_default/-dia-cng-laptop-hdd-seagate-barracuda-1tb-25-5400-rpm-128mb-cache-st1000lm048.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ đĩa cứng Laptop HDD Seagate BarraCuda 1TB 2.5&amp;quot; 5400 rpm 128MB Cache (ST1000LM048)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/134--dia-cng-hdd-seagate-barracuda-2tb-35-7200-rpm-256mb-cache-st2000dm008-con-hang-7.html]]></loc>
+<lastmod>2022-12-12T12:27:00+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/298-large_default/-dia-cng-hdd-seagate-barracuda-2tb-35-7200-rpm-256mb-cache-st2000dm008-con-hang-7.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ đĩa cứng HDD Seagate BarraCuda 2TB 3.5&amp;quot; 7200 Rpm 256MB Cache (ST2000DM008) Còn hàng -7%]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/135--dia-cng-hdd-wd-blue-4tb-35-5400-rpm-256mb-cache.html]]></loc>
+<lastmod>2022-12-12T12:27:24+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/299-large_default/-dia-cng-hdd-wd-blue-4tb-35-5400-rpm-256mb-cache.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Ổ đĩa cứng HDD WD Blue 4TB 3.5' 5400 rpm 256MB Cache]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/136-case-xigmatek-xm-23-m-atx.html]]></loc>
+<lastmod>2022-12-12T12:28:03+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/300-large_default/case-xigmatek-xm-23-m-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek XM-23 m-ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/301-large_default/case-xigmatek-xm-23-m-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek XM-23 m-ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/302-large_default/case-xigmatek-xm-23-m-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek XM-23 m-ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/303-large_default/case-xigmatek-xm-23-m-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek XM-23 m-ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/304-large_default/case-xigmatek-xm-23-m-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek XM-23 m-ATX]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/137-v-may-tinh-sama-halo.html]]></loc>
+<lastmod>2022-12-12T12:28:43+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/305-large_default/v-may-tinh-sama-halo.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Vỏ máy tính SAMA HALO]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/306-large_default/v-may-tinh-sama-halo.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Vỏ máy tính SAMA HALO]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/307-large_default/v-may-tinh-sama-halo.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Vỏ máy tính SAMA HALO]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/308-large_default/v-may-tinh-sama-halo.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Vỏ máy tính SAMA HALO]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/309-large_default/v-may-tinh-sama-halo.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Vỏ máy tính SAMA HALO]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/138-case-1st-player-v2-a-4g6-4-fan-led-atx.html]]></loc>
+<lastmod>2022-12-12T12:29:25+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/310-large_default/case-1st-player-v2-a-4g6-4-fan-led-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case 1st Player V2-A-4G6 (4 FAN LED) - ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/311-large_default/case-1st-player-v2-a-4g6-4-fan-led-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case 1st Player V2-A-4G6 (4 FAN LED) - ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/312-large_default/case-1st-player-v2-a-4g6-4-fan-led-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case 1st Player V2-A-4G6 (4 FAN LED) - ATX]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/140-case-xigmatek-fadil-1f-artic-matx-mau-trang.html]]></loc>
+<lastmod>2022-12-12T12:30:28+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/313-large_default/case-xigmatek-fadil-1f-artic-matx-mau-trang.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek Fadil 1F Artic – mATX (màu trắng)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/314-large_default/case-xigmatek-fadil-1f-artic-matx-mau-trang.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek Fadil 1F Artic – mATX (màu trắng)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/315-large_default/case-xigmatek-fadil-1f-artic-matx-mau-trang.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek Fadil 1F Artic – mATX (màu trắng)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/316-large_default/case-xigmatek-fadil-1f-artic-matx-mau-trang.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek Fadil 1F Artic – mATX (màu trắng)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/317-large_default/case-xigmatek-fadil-1f-artic-matx-mau-trang.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Xigmatek Fadil 1F Artic – mATX (màu trắng)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/141-case-antec-nx400-1-fan-rgb-atx.html]]></loc>
+<lastmod>2022-12-12T12:31:08+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/318-large_default/case-antec-nx400-1-fan-rgb-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Antec NX400 - 1 FAN RGB - ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/319-large_default/case-antec-nx400-1-fan-rgb-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Antec NX400 - 1 FAN RGB - ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/320-large_default/case-antec-nx400-1-fan-rgb-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Antec NX400 - 1 FAN RGB - ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/321-large_default/case-antec-nx400-1-fan-rgb-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Antec NX400 - 1 FAN RGB - ATX]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/322-large_default/case-antec-nx400-1-fan-rgb-atx.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Case Antec NX400 - 1 FAN RGB - ATX]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/142-ngun-may-tinh-deepcool-pf450d-450w-80-plus-white.html]]></loc>
+<lastmod>2022-12-12T12:31:49+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/323-large_default/ngun-may-tinh-deepcool-pf450d-450w-80-plus-white.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn máy tính Deepcool PF450D 450W 80 Plus White]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/324-large_default/ngun-may-tinh-deepcool-pf450d-450w-80-plus-white.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn máy tính Deepcool PF450D 450W 80 Plus White]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/325-large_default/ngun-may-tinh-deepcool-pf450d-450w-80-plus-white.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn máy tính Deepcool PF450D 450W 80 Plus White]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/143-ngun-pc-cooler-master-460w-elite-bulk-khong-hp.html]]></loc>
+<lastmod>2022-12-12T12:32:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/326-large_default/ngun-pc-cooler-master-460w-elite-bulk-khong-hp.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn PC Cooler Master 460W Elite - Bulk (Không hộp)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/327-large_default/ngun-pc-cooler-master-460w-elite-bulk-khong-hp.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn PC Cooler Master 460W Elite - Bulk (Không hộp)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/328-large_default/ngun-pc-cooler-master-460w-elite-bulk-khong-hp.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn PC Cooler Master 460W Elite - Bulk (Không hộp)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/144-ngun-gigabyte-p550b-550w-80plus-bronze.html]]></loc>
+<lastmod>2022-12-12T12:33:22+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/329-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/330-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/331-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/332-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/333-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/146-ngun-gigabyte-p550b-550w-80plus-bronze.html]]></loc>
+<lastmod>2022-12-12T12:34:16+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/334-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/335-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/336-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/337-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/338-large_default/ngun-gigabyte-p550b-550w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte P550B 550W 80Plus Bronze]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/147-ngun-cooler-master-mwe-750-bronze-v2-230v-750w-80plus-bronze.html]]></loc>
+<lastmod>2022-12-12T12:35:04+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/339-large_default/ngun-cooler-master-mwe-750-bronze-v2-230v-750w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Cooler Master MWE 750 Bronze V2 230V 750W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/340-large_default/ngun-cooler-master-mwe-750-bronze-v2-230v-750w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Cooler Master MWE 750 Bronze V2 230V 750W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/341-large_default/ngun-cooler-master-mwe-750-bronze-v2-230v-750w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Cooler Master MWE 750 Bronze V2 230V 750W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/342-large_default/ngun-cooler-master-mwe-750-bronze-v2-230v-750w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Cooler Master MWE 750 Bronze V2 230V 750W 80Plus Bronze]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/343-large_default/ngun-cooler-master-mwe-750-bronze-v2-230v-750w-80plus-bronze.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Cooler Master MWE 750 Bronze V2 230V 750W 80Plus Bronze]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/148-ngun-gigabyte-ud850gm-850w-80plus-gold-full-modular.html]]></loc>
+<lastmod>2022-12-12T12:35:56+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/344-large_default/ngun-gigabyte-ud850gm-850w-80plus-gold-full-modular.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte UD850GM 850W 80Plus Gold Full-Modular]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/345-large_default/ngun-gigabyte-ud850gm-850w-80plus-gold-full-modular.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte UD850GM 850W 80Plus Gold Full-Modular]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/346-large_default/ngun-gigabyte-ud850gm-850w-80plus-gold-full-modular.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte UD850GM 850W 80Plus Gold Full-Modular]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/347-large_default/ngun-gigabyte-ud850gm-850w-80plus-gold-full-modular.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte UD850GM 850W 80Plus Gold Full-Modular]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/348-large_default/ngun-gigabyte-ud850gm-850w-80plus-gold-full-modular.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Nguồn Gigabyte UD850GM 850W 80Plus Gold Full-Modular]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/149-b-tan-nhiet-cpu-deepcool-ag400-led.html]]></loc>
+<lastmod>2022-12-12T12:36:35+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/349-large_default/b-tan-nhiet-cpu-deepcool-ag400-led.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 LED]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/350-large_default/b-tan-nhiet-cpu-deepcool-ag400-led.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 LED]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/351-large_default/b-tan-nhiet-cpu-deepcool-ag400-led.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 LED]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/352-large_default/b-tan-nhiet-cpu-deepcool-ag400-led.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 LED]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/353-large_default/b-tan-nhiet-cpu-deepcool-ag400-led.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 LED]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/150-b-tan-nhiet-cpu-deepcool-ag400-argb.html]]></loc>
+<lastmod>2022-12-12T12:36:58+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/354-large_default/b-tan-nhiet-cpu-deepcool-ag400-argb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 ARGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/355-large_default/b-tan-nhiet-cpu-deepcool-ag400-argb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 ARGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/356-large_default/b-tan-nhiet-cpu-deepcool-ag400-argb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 ARGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/357-large_default/b-tan-nhiet-cpu-deepcool-ag400-argb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 ARGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/358-large_default/b-tan-nhiet-cpu-deepcool-ag400-argb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ Tản Nhiệt CPU Deepcool AG400 ARGB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/151-tan-nhiet-khi-deepcool-ak620-dual-tower.html]]></loc>
+<lastmod>2022-12-12T12:37:41+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/359-large_default/tan-nhiet-khi-deepcool-ak620-dual-tower.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tản nhiệt khí Deepcool AK620 Dual-Tower]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/360-large_default/tan-nhiet-khi-deepcool-ak620-dual-tower.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tản nhiệt khí Deepcool AK620 Dual-Tower]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/361-large_default/tan-nhiet-khi-deepcool-ak620-dual-tower.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tản nhiệt khí Deepcool AK620 Dual-Tower]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/362-large_default/tan-nhiet-khi-deepcool-ak620-dual-tower.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tản nhiệt khí Deepcool AK620 Dual-Tower]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/363-large_default/tan-nhiet-khi-deepcool-ak620-dual-tower.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Tản nhiệt khí Deepcool AK620 Dual-Tower]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/152-fan-xigmatek-x22f-120mm-fixed-rgb.html]]></loc>
+<lastmod>2022-12-12T13:36:28+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/364-large_default/fan-xigmatek-x22f-120mm-fixed-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Fan Xigmatek X22F 120mm Fixed RGB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/153-fan-msi-120mm-fixed-rgb-oe3-7g20001-809.html]]></loc>
+<lastmod>2022-12-12T12:39:32+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/365-large_default/fan-msi-120mm-fixed-rgb-oe3-7g20001-809.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Fan MSI 120mm Fixed RGB OE3-7G20001-809]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/366-large_default/fan-msi-120mm-fixed-rgb-oe3-7g20001-809.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Fan MSI 120mm Fixed RGB OE3-7G20001-809]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/154-quat-deepcool-cf120-a-rgb.html]]></loc>
+<lastmod>2022-12-12T12:40:13+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/367-large_default/quat-deepcool-cf120-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Quạt Deepcool CF120 a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/368-large_default/quat-deepcool-cf120-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Quạt Deepcool CF120 a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/369-large_default/quat-deepcool-cf120-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Quạt Deepcool CF120 a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/370-large_default/quat-deepcool-cf120-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Quạt Deepcool CF120 a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/371-large_default/quat-deepcool-cf120-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Quạt Deepcool CF120 a-RGB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/155-b-3-fan-xigmatek-starz-x22a-den-black-argb-x3.html]]></loc>
+<lastmod>2022-12-12T12:40:58+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/372-large_default/b-3-fan-xigmatek-starz-x22a-den-black-argb-x3.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Xigmatek STARZ X22A ĐEN (BLACK ARGB x3)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/373-large_default/b-3-fan-xigmatek-starz-x22a-den-black-argb-x3.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Xigmatek STARZ X22A ĐEN (BLACK ARGB x3)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/374-large_default/b-3-fan-xigmatek-starz-x22a-den-black-argb-x3.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Xigmatek STARZ X22A ĐEN (BLACK ARGB x3)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/375-large_default/b-3-fan-xigmatek-starz-x22a-den-black-argb-x3.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Xigmatek STARZ X22A ĐEN (BLACK ARGB x3)]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/376-large_default/b-3-fan-xigmatek-starz-x22a-den-black-argb-x3.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Xigmatek STARZ X22A ĐEN (BLACK ARGB x3)]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/156-b-3-fan-cooler-master-mf120-halo-3in1-mau-den.html]]></loc>
+<lastmod>2022-12-12T12:42:01+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/377-large_default/b-3-fan-cooler-master-mf120-halo-3in1-mau-den.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Cooler Master MF120 HALO 3in1 - màu đen]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/378-large_default/b-3-fan-cooler-master-mf120-halo-3in1-mau-den.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Cooler Master MF120 HALO 3in1 - màu đen]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/379-large_default/b-3-fan-cooler-master-mf120-halo-3in1-mau-den.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Cooler Master MF120 HALO 3in1 - màu đen]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/380-large_default/b-3-fan-cooler-master-mf120-halo-3in1-mau-den.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Cooler Master MF120 HALO 3in1 - màu đen]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/trang-chu/157-b-3-fan-deepcool-mf120gt-a-rgb.html]]></loc>
+<lastmod>2022-12-12T12:42:46+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/381-large_default/b-3-fan-deepcool-mf120gt-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Deepcool MF120GT a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/382-large_default/b-3-fan-deepcool-mf120gt-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Deepcool MF120GT a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/383-large_default/b-3-fan-deepcool-mf120gt-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Deepcool MF120GT a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/384-large_default/b-3-fan-deepcool-mf120gt-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Deepcool MF120GT a-RGB]]></image:title>
+</image:image>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/385-large_default/b-3-fan-deepcool-mf120gt-a-rgb.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Bộ 3 Fan Deepcool MF120GT a-RGB]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/10-dell-laptop]]></loc>
+<lastmod>2022-11-26T18:22:40+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/c/10-category_default/dell-laptop.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Dell Laptop]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/12-lenovo-laptop]]></loc>
+<lastmod>2022-11-26T18:22:40+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/c/12-category_default/lenovo-laptop.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Lenovo Laptop]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/13-hp-laptop]]></loc>
+<lastmod>2022-11-26T18:22:40+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/c/13-category_default/hp-laptop.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[HP Laptop]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/14-christmas-sale]]></loc>
+<lastmod>2022-11-26T15:54:00+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/c/14-category_default/christmas-sale.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[Christmas Sale]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/15-linh-kien]]></loc>
+<lastmod>2022-11-26T18:19:30+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/16-pc]]></loc>
+<lastmod>2022-11-26T18:20:21+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/17-ph-kien]]></loc>
+<lastmod>2022-11-26T18:20:40+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/18-gaming-gear]]></loc>
+<lastmod>2022-11-26T18:20:59+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/19-laptop]]></loc>
+<lastmod>2022-11-26T18:21:13+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/20-laptop-mua-christmas]]></loc>
+<lastmod>2022-11-27T12:02:15+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/21-linh-kien-mua-christmas]]></loc>
+<lastmod>2022-11-30T11:37:30+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/22-cpu]]></loc>
+<lastmod>2022-11-30T11:17:11+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/23-mainboard]]></loc>
+<lastmod>2022-11-30T11:17:28+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/24-ram]]></loc>
+<lastmod>2022-11-30T11:17:37+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/25-vga]]></loc>
+<lastmod>2022-11-30T11:17:44+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/26-ssd]]></loc>
+<lastmod>2022-11-30T11:17:53+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/27-hdd]]></loc>
+<lastmod>2022-11-30T11:18:01+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/28-case]]></loc>
+<lastmod>2022-11-30T11:18:15+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/29-ngun-may-tinh]]></loc>
+<lastmod>2022-11-30T11:18:25+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/30-tan-nhiet]]></loc>
+<lastmod>2022-11-30T11:18:32+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/31-quat-case]]></loc>
+<lastmod>2022-11-30T11:18:45+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/32-balo]]></loc>
+<lastmod>2022-11-30T11:19:09+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/33-ph-kien-pc]]></loc>
+<lastmod>2022-11-30T11:19:23+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/34-ph-kien-laptop]]></loc>
+<lastmod>2022-11-30T11:19:39+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/35-router]]></loc>
+<lastmod>2022-11-30T11:20:01+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/36-ban-phim]]></loc>
+<lastmod>2022-11-30T11:21:16+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/37-chut]]></loc>
+<lastmod>2022-11-30T11:21:22+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/38-lot-chut]]></loc>
+<lastmod>2022-11-30T11:21:30+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/39-tai-nghe]]></loc>
+<lastmod>2022-11-30T11:21:47+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/40-microphone]]></loc>
+<lastmod>2022-11-30T11:21:55+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/41-loa]]></loc>
+<lastmod>2022-11-30T11:22:05+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/42-webcam]]></loc>
+<lastmod>2022-11-30T11:22:12+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/43-msi]]></loc>
+<lastmod>2022-12-12T13:27:44+07:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+<image:image>
+<image:loc><![CDATA[http://localhost/pretashop/c/43-category_default/msi.jpg]]></image:loc>
+<image:caption><![CDATA[]]></image:caption>
+<image:title><![CDATA[MSI]]></image:title>
+</image:image>
+</url>
+<url>
+<loc><![CDATA[http://localhost/pretashop/vn/content/8-christmas-sale]]></loc>
+
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>

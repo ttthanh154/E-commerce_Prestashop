@@ -1,0 +1,29 @@
+.ets-cd-countdown.flip .digits .text{
+    color:#ffffff;
+}
+.ets-cd-countdown.flip .digits .clock-group .digit,
+.ets-cd-countdown.flip .digits .clock-group .digit .flap:before{
+    color:#fd003e;
+}
+.ets-cd-countdown.flip .digits .clock-group .digit{
+    background-color:#ffffff;
+}
+.ets-cd-countdown.flip .digits .clock-group .digit{
+    border:1px solid #ffeaeb;
+}
+.ets-cd-countdown.normal .dots,
+.ets-cd-countdown.flip .dots{
+    color:#ffeaeb;
+}
+.ets-cd-countdown.normal .digits .text{
+    color:#ffffff;
+}
+.ets-cd-countdown.normal .digits .clock-group .digit{
+    color:#fd003e;
+}
+.ets-cd-countdown.normal .digits .clock-group{
+    background-color:#ffffff;
+}
+.ets-cd-countdown.normal .digits .clock-group{
+    border:1px solid #ffeaeb;
+}

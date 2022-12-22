@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>google_adsense_free</name>
+    <displayName><![CDATA[Google Adsense free]]></displayName>
+    <version><![CDATA[1.0.2]]></version>
+    <description><![CDATA[You can display google ads or any html code in your shop]]></description>
+    <author><![CDATA[MackStores.com]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are You Sure You Want To Uninstall The Module]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
